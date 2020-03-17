@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Mar 16 18:21:06 2020
+# Process ID: 12620
+# Current directory: D:/Verilog/Lab_01_BCD_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10564 D:\Verilog\Lab_01_BCD_adder\Lab_01_BCD_adder.xpr
+# Log file: D:/Verilog/Lab_01_BCD_adder/vivado.log
+# Journal file: D:/Verilog/Lab_01_BCD_adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Verilog/Lab_01_BCD_adder/Lab_01_BCD_adder.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source BCD_adder_test.tcl
+close_sim

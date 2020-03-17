@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Mar 12 17:46:48 2020
+# Process ID: 20452
+# Current directory: D:/Verilog/Lab_01_full_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19236 D:\Verilog\Lab_01_full_adder\Lab_01_full_adder.xpr
+# Log file: D:/Verilog/Lab_01_full_adder/vivado.log
+# Journal file: D:/Verilog/Lab_01_full_adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Verilog/Lab_01_full_adder/Lab_01_full_adder.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project D:/Verilog/Lab_01_full_adder/Lab_01.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project D:/Verilog/Lab_01_decoder/Lab_01_decoder.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project D:/Verilog/Lab_01_bigger/Lab_01_bigger.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project D:/Verilog/Lab_01_BCD_adder/Lab_01_BCD_adder.xpr
+update_compile_order -fileset sources_1
